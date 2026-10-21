@@ -164,7 +164,7 @@ form.addEventListener('submit', (e) => {
     `;
 
     // Build WhatsApp deep link with pre-filled message
-    const waNumber = '6281234567890'; // ← Ganti dengan nomor WA aktif
+    const waNumber = '6282136538487'; // ← Ganti dengan nomor WA aktif
     const kondisiStr = kondisi;
     const merekStr  = merek ? `Merek: ${merek}\n` : '';
     const catatanStr= catatan ? `Catatan: ${catatan}\n` : '';
